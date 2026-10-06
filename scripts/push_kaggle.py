@@ -39,7 +39,7 @@ def main():
             api.dataset_create_version(stage, version_notes="Refreshed from the GitHub repository", dir_mode="skip")
         else:
             api.dataset_create_new(stage, dir_mode="skip", public=True, quiet=False)
-    print("https://www.kaggle.com/datasets/stepuplaw/executor-fees-by-state")
+    print("https://www.kaggle.com/datasets/stepuplaw/lady-bird-deed-by-state")
 
 
 if __name__ == "__main__":
