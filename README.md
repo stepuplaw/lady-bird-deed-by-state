@@ -1,5 +1,7 @@
 # Lady Bird Deeds and Transfer on Death Deeds by State, 50 States and DC (2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23199404.svg)](https://doi.org/10.5281/zenodo.23199404)
+
 For each of the 50 US states and the District of Columbia: whether a lady bird deed (enhanced life estate deed) has primary legal authority and of what kind (statute, court decision, Medicaid agency rule, or a court that declined it), whether a transfer on death or beneficiary deed statute exists with its citation, effective date and uniform-act status, what the instrument is called there, which instrument an owner there would use, and whether Medicaid estate recovery can reach a home passed by each deed.
 
 **Canonical page and citation:** https://stepuplaw.com/data/lady-bird-deed-by-state/
@@ -25,7 +27,7 @@ Rows derive from the StepUpLaw Medicaid estate recovery and home-transfer deed d
 
 ## Citation
 
-Klagge, Kevin D., *Lady Bird Deeds and Transfer on Death Deeds by State, 50 States and DC (2026)*, StepUpLaw, https://stepuplaw.com/data/lady-bird-deed-by-state/. Author ORCID: https://orcid.org/0009-0002-1385-8498. A DOI badge is added here once Zenodo archives the first release.
+Klagge, Kevin D., *Lady Bird Deeds and Transfer on Death Deeds by State, 50 States and DC (2026)*, StepUpLaw, https://stepuplaw.com/data/lady-bird-deed-by-state/ (DOI 10.5281/zenodo.23199404). Author ORCID: https://orcid.org/0009-0002-1385-8498.
 
 ## License
 
