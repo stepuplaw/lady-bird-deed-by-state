@@ -1,0 +1,13 @@
+{
+  "title": "Lady Bird Deed States and Transfer on Death Deeds by State (2026)",
+  "subtitle": "Which states recognize the lady bird deed, which have a TOD or beneficiary deed statute, 50 states and DC",
+  "id": "stepuplaw/lady-bird-deed-by-state",
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "keywords": ["law", "government", "real estate", "united states"],
+  "description": "For each of the 50 US states and the District of Columbia, this dataset records whether a lady bird deed (enhanced life estate deed) has primary legal authority and of what kind (statute, court decision, Medicaid agency rule, or a court that declined it), whether a transfer on death or beneficiary deed statute exists with its citation, effective date and uniform-act status, what the instrument is called there, which instrument an owner there would use, and whether Medicaid estate recovery can reach a home passed by each deed.\n\nSeven states have authority for the lady bird deed (Rhode Island and Vermont by statute; Florida, Maryland, Michigan and Texas by court decision; North Carolina only in its Medicaid manual), Iowa's Court of Appeals has said the state does not recognize it, 34 states plus DC have a transfer on death deed statute, and 11 states have neither. All court decisions were re-checked on October 7, 2026 against a search of every court in the CourtListener corpus. Column definitions are in schema.json.\n\nCanonical page and citation: https://stepuplaw.com/data/lady-bird-deed-by-state/\nSource repository: https://github.com/stepuplaw/lady-bird-deed-by-state\nAuthor: Kevin D. Klagge, Klagge Law, PLLC, ORCID https://orcid.org/0009-0002-1385-8498\n\nThis is reference data, not legal advice. Read the cited source before relying on any cell.",
+  "resources": [
+    { "path": "states.csv", "description": "One row per jurisdiction, 51 rows" },
+    { "path": "states.json", "description": "The same rows as JSON" },
+    { "path": "schema.json", "description": "Column definitions and allowed values" }
+  ]
+}

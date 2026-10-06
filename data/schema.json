@@ -1,0 +1,25 @@
+{
+ "title": "Lady Bird Deeds and Transfer on Death Deeds by State, 50 States and DC (2026)",
+ "as_of": "2026-10-07",
+ "fields": {
+  "code": "Two-letter jurisdiction code.",
+  "name": "Jurisdiction name.",
+  "instrument_name": "What the non-probate deed is called where it has authority: lady bird deed (enhanced life estate deed), transfer on death deed, beneficiary deed, or neither.",
+  "lady_bird_deed_recognized": "yes = primary authority (statute, court decision or Medicaid agency rule) recognizes a deed reserving to the owner a life estate with the power to sell without the remainder's consent; no = a court has said the state does not recognize it; unclear = no primary authority found.",
+  "lady_bird_authority_type": "statute, case_law, agency_rule, court_declined, or unclear.",
+  "lady_bird_authority": "The authority, with citations.",
+  "tod_deed_recognized": "yes or no: a statute lets real property pass at death by a recorded revocable deed.",
+  "tod_deed_statute": "Citation of the transfer on death or beneficiary deed statute.",
+  "tod_deed_effective": "Effective date of the statute (ISO).",
+  "tod_deed_uniform_act": "yes if based on the Uniform Real Property Transfer on Death Act, no if a home-grown statute, n/a if none.",
+  "what_to_use": "One sentence on which instrument an owner there would use.",
+  "recovery_scope": "Medicaid estate recovery scope: probate_only or expanded.",
+  "lady_bird_deed_recovery": "Whether Medicaid estate recovery can reach a home passed by lady bird deed: reachable, not_reachable, unclear.",
+  "tod_deed_recovery": "Same for a home passed by transfer on death deed; n/a where there is no statute.",
+  "last_verified": "Date the row was last checked against its sources.",
+  "sources": "URLs read.",
+  "confidence": "high, medium or low, from the source dataset."
+ },
+ "provenance": "Derived from the StepUpLaw Medicaid estate recovery and home-transfer deed dataset (verified 2026-09-23, corrected 2026-09-28) and the 2026-10-07 sweep of every court in the local CourtListener corpus for the terms lady bird deed, ladybird deed and enhanced life estate.",
+ "license": "CC BY 4.0"
+}
